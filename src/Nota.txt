@@ -1,0 +1,7 @@
+FUNCIONALIDAD INCOMPLETA
+Para el manejo de estados, decidí utilizar Zustand, ya que este proyecto no es robusto, por lo que Zustand 
+es mas fácil de implementar, y mas flexible que Context API, la razón por la cual no está implementado,
+es porque la librería no se instaló correctamente, por lo que tengo algunas opciones para poder instalarla bien
+como por ejemplo, forzar su instalación, reiniciar el servidor o depurar. Sé y confío en que se trata de esos
+posibles errores y en cuanto esté lista la instalción, podré llevar a cabo el manejo de estados para poder 
+en este caso, guardar los personajes favoritos del usuario aún cuando se cierre la página
